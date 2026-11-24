@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score,Train Recall,Recall Gap (Train - Val)
+Random Forest,0.966,0.5,0.804,0.617,1.0,0.196
+Decision Tree,0.953,0.4,0.745,0.521,1.0,0.255
+SVM,0.917,0.255,0.745,0.38,0.969,0.224
+KNN,0.922,0.254,0.667,0.368,0.99,0.323
+Logistic Regression,0.835,0.137,0.725,0.23,0.878,0.152
+Naive Bayes,0.752,0.1,0.784,0.177,0.925,0.141
